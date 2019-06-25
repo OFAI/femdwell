@@ -7,7 +7,7 @@ this, find ways how to improve the content presented to the users.
 
 Project participants:
 * [STANDARD Verlagsgesellschaft m.b.H.](https://derstandard.at/)
-* [Austrian Research Institute for Artificial Intelligence](http://ofai.at/)
+* [Austrian Research Institute for Artificial Intelligence (OFAI)](http://ofai.at/)
 
 This project is supported through [Call FemPower IKT 2018](https://www.austrianstartups.com/event/call-fempower-ikt-2018/)
 
