@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+# see https://github.com/pages-themes/cayman
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+page.title: FemDwell
+
