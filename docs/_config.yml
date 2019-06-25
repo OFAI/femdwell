@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 # see https://github.com/pages-themes/cayman
 title: FemDwell Project
 # description: "Analyse & Steigerung der Verweilzeit auf User Generated Content mit Fokus auf Nutzerinnen"
-description: "User-Centric Analysis & Improvement of Web Page Engagement with User Generated Content auf User Generated Content"
+description: "User-Centric Analysis & Improvement of Web Page Engagement with User Generated Content"
 
 defaults:
 - scope: 
