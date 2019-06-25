@@ -1,7 +1,18 @@
 theme: jekyll-theme-cayman
 # see https://github.com/pages-themes/cayman
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-page.title: FemDwell
+title: FemDwell Project
+description: description
+
+defaults:
+- scope: 
+    path: "*.md"
+  values:
+    layout: "default"
+
+optional_front_matter:
+  enabled: true
+
+optional_front_matter:
+  remove_originals: true
+
 
